@@ -17,6 +17,8 @@ With my research and work experience I plan to pursue my PhD in mathematical and
 4. Programming for academic journals
 5. Writing Scientific Papers
 
+Learn more about my [Research Experience](#research) and my [Internships](#internships).
+
 ## Research
 I currently work in 2 labs: The Saier lab and Khoja lab. At the Saier lab, I am building an [automated system](https://github.com/gauthamp123/microbiome_project) that can take blast hits from a genome and make **accurate decisions** on which transport systems are present in the genome. Based on that, we can make comparisons between the functions of different bacteria which can be used to understand the transport systems roles when fighting off different diseases. At the Khoja Lab, I serve as both the **project leader and head of the AI team**. The project we are working on is finding a way to image and analyze mini-organs called organoids within a device and make accurate predictions about size and viability of organoids during a culturing time frame. I have been working to integrate both open-cv techniques as well as a segmentation YOLO model to make distinctions between cells and train data during the culturing process. 
 ![Screenshot of an experiment ran to segment organoids in order to calculate size and shape.](organoid_img.png)
