@@ -1,5 +1,5 @@
 # Gautham Prabhakar
-![Photo of Gautham](gautham_pic.png)
+[Photo of Gautham](gautham_pic.png)
 Hello my name is Gautham Prabhakar and I am a bioinformatics major at UCSD working on software that can help understand biological systems. I have significant software and programming experience through both research and industry geared towards biotech work and am proficient in:
 - Java
 - R
